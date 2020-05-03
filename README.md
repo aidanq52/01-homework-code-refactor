@@ -3,4 +3,4 @@ This was our first homework assignment for the university of washington coding b
 
 Additionally an effort was made to confirm that all links were functioning correctly, that the CSS and the HTML was properly annotated and that the code was consolidated (specifically CSS selectors and properties). included below is a screenshot from the deployed website.
 
-![](./assets/images/screenshot.png)]
+![](./assets/images/screenshot.png)
